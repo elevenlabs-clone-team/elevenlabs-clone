@@ -41,7 +41,7 @@ Follow these steps to install and set up the project.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Andreaswt/elevenlabs-clone.git
+git clone https://github.com/sebastiancastellanos3/elevenlabs-clone.git
 ```
 
 ### Navigate to the Project Directory
