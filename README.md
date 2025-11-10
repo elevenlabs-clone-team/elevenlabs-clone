@@ -41,7 +41,7 @@ Follow these steps to install and set up the project.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/sebastiancastellanos3/elevenlabs-clone.git
+git clone https://github.com/Andreaswt/elevenlabs-clone.git
 ```
 
 ### Navigate to the Project Directory
@@ -128,4 +128,12 @@ Add custom policy:
 		}
 	]
 }
+```
+🏆 Acknowledgment & Credits
+
+I would like to express my deepest gratitude to @Andreaswt for explaining everything wonderfully, clearly, and passionately, and for being an outstanding mentor throughout this project.
+His guidance, dedication, and ability to share knowledge made it possible to truly understand every concept and bring this work to a professional level.
+
+All the credit and recognition for this project go to Andreas Trolle, whose mentorship and insights were fundamental to its development.
+Every improvement, line of code, and technical decision was inspired and shaped by his exceptional teaching.
 ```
